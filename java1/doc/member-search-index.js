@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Numero","l":"calcularDoble()"},{"p":"<Unnamed>","c":"Numero","l":"calcularMitad()"},{"p":"<Unnamed>","c":"Numero","l":"calcularTriple()"},{"p":"<Unnamed>","c":"Numero","l":"Numero(int)","url":"%3Cinit%3E(int)"}]
